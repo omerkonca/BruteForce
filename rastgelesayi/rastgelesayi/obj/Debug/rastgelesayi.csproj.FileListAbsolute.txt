@@ -1,0 +1,7 @@
+C:\Users\ömer faruk\source\repos\rastgelesayi\rastgelesayi\bin\Debug\rastgelesayi.exe.config
+C:\Users\ömer faruk\source\repos\rastgelesayi\rastgelesayi\bin\Debug\rastgelesayi.exe
+C:\Users\ömer faruk\source\repos\rastgelesayi\rastgelesayi\bin\Debug\rastgelesayi.pdb
+C:\Users\ömer faruk\source\repos\rastgelesayi\rastgelesayi\obj\Debug\rastgelesayi.csprojAssemblyReference.cache
+C:\Users\ömer faruk\source\repos\rastgelesayi\rastgelesayi\obj\Debug\rastgelesayi.csproj.CoreCompileInputs.cache
+C:\Users\ömer faruk\source\repos\rastgelesayi\rastgelesayi\obj\Debug\rastgelesayi.exe
+C:\Users\ömer faruk\source\repos\rastgelesayi\rastgelesayi\obj\Debug\rastgelesayi.pdb
