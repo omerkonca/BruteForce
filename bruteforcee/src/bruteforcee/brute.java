@@ -10,10 +10,10 @@ import java.util.Scanner;
 
 public class brute {
 	 public static void main(String[] args) {
-
+                System.out.println("Bruteforce olu≈üturacak kelimeleri giriniz !!! :  ");
 	        Scanner input = new Scanner(System.in);
 	        String r = input.next();
-	        String Á = "";
+	        String √ß = "";
 	        ArrayList<String> liste = new ArrayList<>();
 	        int b = r.length();
 	        for (int v = 0; v < 100; v++) {
@@ -23,13 +23,13 @@ public class brute {
 	                String n = r.substring(e, e + 1);
 	                System.out.print(n);
 	                System.out.print("");
-	                Á+=n;
+	                √ß+=n;
 	            }
-	            liste.add(Á);
-	            Á="";
+	            liste.add(√ß);
+	            √ß="";
 	            System.out.println();
 	        }
-	        String dosyaYolu = "C:\\Users\\ˆmer faruk\\Desktop//testt.txt";
+	        String dosyaYolu = "C:\\Users\\√∂mer faruk\\Desktop//testt.txt";
 
 	        try {
 
@@ -40,15 +40,15 @@ public class brute {
 	            for(int index=0;index<liste.size();index++){
 	                writer.println(liste.get(index));
 	            }
-	            //String yazi = Á;
+	            //String yazi = √ß;
 	            //fos.write(yazi.getBytes());
 	            //fos.close();
 	            writer.close();
 
 	        } catch (FileNotFoundException ex) {
-	            System.out.println("Dosya Bulunamad˝ Hatas˝ : " + ex);
+	            System.out.println("Dosya Bulunamad√Ω Hatas√Ω : " + ex);
 	        } catch (IOException ioe) {
-	            System.out.println("Giri˛ Hatas˝ : " + ioe);
+	            System.out.println("Giri√æ Hatas√Ω : " + ioe);
 	        }
 	    }
 }
